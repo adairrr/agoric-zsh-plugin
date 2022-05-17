@@ -4,7 +4,7 @@ Plugin for [Agoric](https://agoric.com) with common aliases for installation, de
 ## Installation
 Clone into your oh-my-zsh plugins directory
 ```
-git clone https://github.com/adairrr/agoric-zsh-plugin ~/.oh-my-zsh/plugins/agoric
+git clone https://github.com/adairrr/agoric-zsh-plugin $ZSH_CUSTOM/plugins/agoric
 ```
 Add the plugin to the plugins array in your `~/.zshrc`:
 ```
